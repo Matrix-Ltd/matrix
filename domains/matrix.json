@@ -1,0 +1,11 @@
+{
+    "description": "Describe el uso de este subdominio",
+    "repo": "https://github.com/usuario-github/repositorio-github",
+    "owner": {
+        "username": "prasenjeett",
+        "email": "prasenjeethowlader122@gmail.com"
+    },
+    "record": {
+        "CNAME": "matrix-ltd.github.io"
+    }
+}
